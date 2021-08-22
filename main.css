@@ -1,1 +1,20 @@
-
+.a {
+  position     : relative;
+  margin       : auto;
+  width        : 275px;
+  height       : 125px;
+  background   : #a1a6f1;
+  transform    : rotate(335deg);
+}
+.a span {
+  position     : absolute;
+  display      : inline-block;
+  background   : rgba(255, 255, 255, 0.6);
+  top          : 50%;
+  left         : 50%;
+  padding      : 3px;
+  color        : #333;
+  transform    : translate(-50%,-50%);
+  font-size    : 12pt;
+  border-radius: 5px;
+}
