@@ -1,11 +1,3 @@
-.a {
-  position     : relative;
-  margin       : auto;
-  width        : 275px;
-  height       : 125px;
-  background   : #a1a6f1;
-  transform    : rotate(335deg);
-}
 body {
     width: 1000px;
   height: 650px;
